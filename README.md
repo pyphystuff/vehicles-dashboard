@@ -39,4 +39,4 @@ streamlit run app.py
 
 ## Aplicativo implantado
 
-O aplicativo está disponível em: https://<APP_NAME>.onrender.com/
+O aplicativo está disponível em: https://<https://vehicles-dashboard-3qwc.onrender.com/
