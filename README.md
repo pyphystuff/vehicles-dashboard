@@ -38,5 +38,4 @@ streamlit run app.py
 ```
 
 ## Aplicativo implantado
-
 https://vehicles-dashboard-3qwc.onrender.com
